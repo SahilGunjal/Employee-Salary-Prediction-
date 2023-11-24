@@ -21,6 +21,10 @@ This repository contains Python code for creating a synthetic dataset of salarie
 - The linear regression model is trained using gradient descent, and the learning rate and number of epochs can be adjusted for optimization.
 - The code provides insights into the model's performance by visualizing the data and plotting the cost vs. epoch graph.
 
+- ![Alt Text](Salary_prediction.png)
+- ![Alt Text](epoch_vs_cost.png)
+
+
 Feel free to explore, modify, and use the code for your own projects!
 
 ---
